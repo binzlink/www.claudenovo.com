@@ -1,8 +1,0 @@
-{
-  "name": "www.claudenovo.com",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "node scripts/build.mjs"
-  }
-}

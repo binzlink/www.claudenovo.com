@@ -21,3 +21,10 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+data
+locales
+node_modules
+scripts
+templates
+package-lock.json
+package.json
