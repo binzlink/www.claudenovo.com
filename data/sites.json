@@ -1,0 +1,152 @@
+[
+  {
+    "id": "social",
+    "links": [
+      { "name": "Facebook", "url": "https://www.facebook.com/" },
+      { "name": "Instagram", "url": "https://www.instagram.com/" },
+      { "name": "X (Twitter)", "url": "https://x.com/" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/" },
+      { "name": "TikTok", "url": "https://www.tiktok.com/" },
+      { "name": "Reddit", "url": "https://www.reddit.com/" },
+      { "name": "Pinterest", "url": "https://www.pinterest.com/" },
+      { "name": "Snapchat", "url": "https://www.snapchat.com/" },
+      { "name": "Tumblr", "url": "https://www.tumblr.com/" },
+      { "name": "Threads", "url": "https://www.threads.net/" }
+    ]
+  },
+  {
+    "id": "messaging",
+    "links": [
+      { "name": "WhatsApp", "url": "https://www.whatsapp.com/" },
+      { "name": "Telegram", "url": "https://telegram.org/" },
+      { "name": "Messenger", "url": "https://www.messenger.com/" },
+      { "name": "Signal", "url": "https://signal.org/" },
+      { "name": "Viber", "url": "https://www.viber.com/" },
+      { "name": "WeChat", "url": "https://www.wechat.com/" },
+      { "name": "LINE", "url": "https://line.me/" },
+      { "name": "Discord", "url": "https://discord.com/" },
+      { "name": "Slack", "url": "https://slack.com/" },
+      { "name": "Skype", "url": "https://www.skype.com/" }
+    ]
+  },
+  {
+    "id": "search_tech",
+    "links": [
+      { "name": "Google", "url": "https://www.google.com/" },
+      { "name": "Microsoft", "url": "https://www.microsoft.com/" },
+      { "name": "Apple", "url": "https://www.apple.com/" },
+      { "name": "Amazon", "url": "https://www.amazon.com/" },
+      { "name": "Yahoo", "url": "https://www.yahoo.com/" },
+      { "name": "Bing", "url": "https://www.bing.com/" },
+      { "name": "DuckDuckGo", "url": "https://duckduckgo.com/" },
+      { "name": "Baidu", "url": "https://www.baidu.com/" },
+      { "name": "Yandex", "url": "https://www.yandex.com/" },
+      { "name": "Samsung", "url": "https://www.samsung.com/" }
+    ]
+  },
+  {
+    "id": "ecommerce",
+    "links": [
+      { "name": "eBay", "url": "https://www.ebay.com/" },
+      { "name": "Alibaba", "url": "https://www.alibaba.com/" },
+      { "name": "AliExpress", "url": "https://www.aliexpress.com/" },
+      { "name": "Walmart", "url": "https://www.walmart.com/" },
+      { "name": "Etsy", "url": "https://www.etsy.com/" },
+      { "name": "Shopify", "url": "https://www.shopify.com/" },
+      { "name": "Nike", "url": "https://www.nike.com/" },
+      { "name": "Adidas", "url": "https://www.adidas.com/" },
+      { "name": "IKEA", "url": "https://www.ikea.com/" },
+      { "name": "Target", "url": "https://www.target.com/" }
+    ]
+  },
+  {
+    "id": "streaming",
+    "links": [
+      { "name": "YouTube", "url": "https://www.youtube.com/" },
+      { "name": "Netflix", "url": "https://www.netflix.com/" },
+      { "name": "Spotify", "url": "https://www.spotify.com/" },
+      { "name": "Twitch", "url": "https://www.twitch.tv/" },
+      { "name": "Disney+", "url": "https://www.disneyplus.com/" },
+      { "name": "Hulu", "url": "https://www.hulu.com/" },
+      { "name": "Prime Video", "url": "https://www.primevideo.com/" },
+      { "name": "Apple Music", "url": "https://music.apple.com/" },
+      { "name": "SoundCloud", "url": "https://www.soundcloud.com/" },
+      { "name": "Vimeo", "url": "https://vimeo.com/" }
+    ]
+  },
+  {
+    "id": "news",
+    "links": [
+      { "name": "BBC", "url": "https://www.bbc.com/" },
+      { "name": "CNN", "url": "https://www.cnn.com/" },
+      { "name": "The New York Times", "url": "https://www.nytimes.com/" },
+      { "name": "The Guardian", "url": "https://www.theguardian.com/" },
+      { "name": "Reuters", "url": "https://www.reuters.com/" },
+      { "name": "Forbes", "url": "https://www.forbes.com/" },
+      { "name": "Bloomberg", "url": "https://www.bloomberg.com/" },
+      { "name": "Wall Street Journal", "url": "https://www.wsj.com/" },
+      { "name": "Medium", "url": "https://www.medium.com/" },
+      { "name": "Wikipedia", "url": "https://www.wikipedia.org/" }
+    ]
+  },
+  {
+    "id": "finance",
+    "links": [
+      { "name": "PayPal", "url": "https://www.paypal.com/" },
+      { "name": "Stripe", "url": "https://stripe.com/" },
+      { "name": "Visa", "url": "https://www.visa.com/" },
+      { "name": "Mastercard", "url": "https://www.mastercard.com/" },
+      { "name": "Wise", "url": "https://www.wise.com/" },
+      { "name": "Revolut", "url": "https://www.revolut.com/" },
+      { "name": "Coinbase", "url": "https://www.coinbase.com/" },
+      { "name": "Binance", "url": "https://www.binance.com/" },
+      { "name": "Chase", "url": "https://www.chase.com/" },
+      { "name": "American Express", "url": "https://www.americanexpress.com/" }
+    ]
+  },
+  {
+    "id": "productivity",
+    "links": [
+      { "name": "Microsoft 365", "url": "https://office.com/" },
+      { "name": "Google Workspace", "url": "https://workspace.google.com/" },
+      { "name": "Dropbox", "url": "https://www.dropbox.com/" },
+      { "name": "Notion", "url": "https://www.notion.so/" },
+      { "name": "Zoom", "url": "https://zoom.us/" },
+      { "name": "Adobe", "url": "https://www.adobe.com/" },
+      { "name": "Evernote", "url": "https://evernote.com/" },
+      { "name": "Trello", "url": "https://trello.com/" },
+      { "name": "Canva", "url": "https://www.canva.com/" },
+      { "name": "Figma", "url": "https://www.figma.com/" }
+    ]
+  },
+  {
+    "id": "travel",
+    "links": [
+      { "name": "Booking.com", "url": "https://www.booking.com/" },
+      { "name": "Airbnb", "url": "https://www.airbnb.com/" },
+      { "name": "Expedia", "url": "https://www.expedia.com/" },
+      { "name": "Tripadvisor", "url": "https://www.tripadvisor.com/" },
+      { "name": "Uber", "url": "https://www.uber.com/" },
+      { "name": "Lyft", "url": "https://www.lyft.com/" },
+      { "name": "Agoda", "url": "https://www.agoda.com/" },
+      { "name": "Marriott", "url": "https://www.marriott.com/" },
+      { "name": "Hilton", "url": "https://www.hilton.com/" },
+      { "name": "Kayak", "url": "https://www.kayak.com/" }
+    ]
+  },
+  {
+    "id": "ai_dev",
+    "links": [
+      { "name": "ChatGPT", "url": "https://chatgpt.com/" },
+      { "name": "OpenAI", "url": "https://openai.com/" },
+      { "name": "Claude", "url": "https://claude.ai/" },
+      { "name": "Gemini", "url": "https://gemini.google.com/" },
+      { "name": "Perplexity", "url": "https://www.perplexity.ai/" },
+      { "name": "GitHub", "url": "https://github.com/" },
+      { "name": "GitLab", "url": "https://gitlab.com/" },
+      { "name": "Stack Overflow", "url": "https://stackoverflow.com/" },
+      { "name": "Hugging Face", "url": "https://huggingface.co/" },
+      { "name": "AWS", "url": "https://aws.amazon.com/" }
+    ]
+  }
+]
